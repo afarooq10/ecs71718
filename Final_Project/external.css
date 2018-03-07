@@ -59,4 +59,11 @@ li a:hover {
     margin: 175px 0px;
     cursor: pointer;
 }
-
+p{
+    font-size: 50px
+}
+.newspaper {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
